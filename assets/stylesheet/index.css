@@ -911,13 +911,13 @@ footer {
 @media (max-width: 600px) {
     .home_text-3 {
         font-size: 1.1rem;
-        animation: typing-mobile 5s steps(31, end) 1s infinite, blink-caret .75s step-end infinite;
+        animation: typing-mobile 5s steps(25, end) 1s infinite, blink-caret .75s step-end infinite;
     }
 }
 
 @keyframes typing-mobile {
     0% { width: 0; }
-    40% { width: 31ch; }
-    60% { width: 31ch; }
+    40% { width: 25ch; }
+    60% { width: 25ch; }
     100% { width: 0; }
 }
