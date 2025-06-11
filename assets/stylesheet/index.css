@@ -917,7 +917,7 @@ footer {
 
 @keyframes typing-mobile {
     0% { width: 0; }
-    40% { width: 32ch; }
-    60% { width: 32ch; }
+    40% { width: 30ch; }
+    60% { width: 30ch; }
     100% { width: 0; }
 }
